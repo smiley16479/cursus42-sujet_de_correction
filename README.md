@@ -1,1 +1,1 @@
-# cursus42-sujet_de_coorection
+# cursus42-sujet_de_correction
